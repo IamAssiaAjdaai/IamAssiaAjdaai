@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Assia Ajdaai</h1>
 <h3 align="center">A passionate Software Developer from Morocco</h3>
-<img align="right" alt="Coding" width="850px" src="https://as1.ftcdn.net/v2/jpg/08/24/71/98/1000_F_824719896_gKb7ueuQjnBROHdABOJMvbiZ1vHX8Xiw.jpg" height="561"/>
+<img align="right" alt="Coding" width="915px" src="https://as1.ftcdn.net/v2/jpg/08/24/71/98/1000_F_824719896_gKb7ueuQjnBROHdABOJMvbiZ1vHX8Xiw.jpg" height="280"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamassiaajdaai&label=Profile%20views&color=0e75b6&style=flat" alt="iamassiaajdaai" /> </p>
 
