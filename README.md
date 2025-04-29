@@ -43,9 +43,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=assiaAjdaai&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=assiaAjdaai&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IamAssiaAjdaai&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamAssiaAjdaai&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -54,4 +53,4 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/assia-ajdaai-7b1901324/)
 [![Gmail](https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge)](mailto:assia.ajdaai@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=assiaAjdaai&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=IamAssiaAjdaai&style=flat-square)
