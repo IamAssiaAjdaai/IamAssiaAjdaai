@@ -1,54 +1,53 @@
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/056e7476d3ce5dbab75be87c57ea62437aff5a218bccf8d0c4df0adaffc46e87/68747470733a2f2f696d616765732d7769786d702d6564333061383662386334636138383737373335393463322e7769786d702e636f6d2f662f63383363303034652d313337302d343735362d383865352d3430373164653739373038382f646764713862722d30396363376164362d613032312d343761352d623065302d3931376231326230663761372e6769663f746f6b656e3d65794a30655841694f694a4b563151694c434a68624763694f694a49557a49314e694a392e65794a7a645749694f694a31636d3436595842774f6a646c4d4751784f4467354f4449794e6a517a4e7a4e684e5759775a4451784e5756684d4751794e6d55774969776961584e7a496a6f6964584a754f6d467763446f335a54426b4d5467344f5467794d6a59304d7a637a5954566d4d4751304d54566c5954426b4d6a5a6c4d434973496d39696169493657317437496e4268644767694f694a634c325a634c324d344d324d774d44526c4c54457a4e7a41744e4463314e6930344f4755314c5451774e7a466b5a5463354e7a41344f4677765a47646b63546869636930774f574e6a4e32466b4e6931684d4449784c54513359545574596a426c4d4330354d5464694d544a694d475933595463755a326c6d496e3164585377695958566b496a7062496e5679626a707a5a584a3261574e6c4f6d5a70624755755a473933626d7876595751695858302e7471524d74452d6232516949326e6e65664e7853444d4a765a43635971466d71326363675f58667a716238"><img src="https://camo.githubusercontent.com/056e7476d3ce5dbab75be87c57ea62437aff5a218bccf8d0c4df0adaffc46e87/68747470733a2f2f696d616765732d7769786d702d6564333061383662386334636138383737373335393463322e7769786d702e636f6d2f662f63383363303034652d313337302d343735362d383865352d3430373164653739373038382f646764713862722d30396363376164362d613032312d343761352d623065302d3931376231326230663761372e6769663f746f6b656e3d65794a30655841694f694a4b563151694c434a68624763694f694a49557a49314e694a392e65794a7a645749694f694a31636d3436595842774f6a646c4d4751784f4467354f4449794e6a517a4e7a4e684e5759775a4451784e5756684d4751794e6d55774969776961584e7a496a6f6964584a754f6d467763446f335a54426b4d5467344f5467794d6a59304d7a637a5954566d4d4751304d54566c5954426b4d6a5a6c4d434973496d39696169493657317437496e4268644767694f694a634c325a634c324d344d324d774d44526c4c54457a4e7a41744e4463314e6930344f4755314c5451774e7a466b5a5463354e7a41344f4677765a47646b63546869636930774f574e6a4e32466b4e6931684d4449784c54513359545574596a426c4d4330354d5464694d544a694d475933595463755a326c6d496e3164585377695958566b496a7062496e5679626a707a5a584a3261574e6c4f6d5a70624755755a473933626d7876595751695858302e7471524d74452d6232516949326e6e65664e7853444d4a765a43635971466d71326363675f58667a716238](https://camo.githubusercontent.com/2b83173860ad01e498ffc86998cf78f9d92ecffecee44a712adc495dd986fdcd/68747470733a2f2f7777772e7072616d756b686469676974616c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30372f4e65772d504e432d416e696d617465642d42616e6e6572732e676966" alt="MasterHead" style="max-width: 100%;"></a></p>
-<h1 align="center">Hi, I'm Assia Ajdaai👋</h1>
-<p align="center"><i>💻 Full-Stack Developer | 💼 Skilled in C# .NET & ASP.NET | 🌱 Learning React & TypeScript</i></p>
 
----
+<div align="center"> <h1>Hi, I'm Assia Ajdaai 👋</h1> <p><strong>Software Developer (IHK-certified) | Full-Stack · Mobile · AI Integrations</strong></p> <p>Building useful digital products with React, TypeScript, Next.js, Python and C#/.NET.</p> <a href="https://www.linkedin.com/in/assia-ajdaai-7b1901324/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="mailto:assia.ajdaai@gmail.com"> <img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /> </a> </div>
+👩‍💻 About Me
+I'm an IHK-certified Fachinformatikerin für Anwendungsentwicklung (Application Developer) based in Germany. My background combines C#/.NET and SQL with hands-on work in React, TypeScript, modern web applications and API integrations.
 
-### 💬 About Me
+I enjoy working across frontend and backend, turning ideas into tested, practical products. Recently, I've been building AI-powered travel experiences, multi-tenant e-commerce tools, and automation-focused applications. I'm also developing my eye for UI/UX through digital media design.
 
-- 🎓 I’m a passionate full-stack developer with a strong foundation in **C# .NET (Desktop & Web)** and **JavaScript**
-- 🚀 Currently growing my skills in **React** and **TypeScript**
-- 🧠 I love building practical applications and constantly learning new technologies
-- 📫 Reach me at: **[your-email-here]**
+🔭 Currently building: CITYWALK and AfricaCOD
+🧩 Interests: Full-stack engineering, backend systems, mobile apps, AI integrations and product design
+📍 Location: Germany (North Rhine-Westphalia)
+💬 Languages: Arabic, German and English
+💼 Experience & Background
+Junior Software Developer — Mission Mittelstand (2026): Professional software development experience involving web applications and integrations.
+IHK qualification — Fachinformatikerin für Anwendungsentwicklung (2025): Completed vocational training with a focus on C#/.NET, SQL, application development and debugging.
+Web development experience: Worked with React and WordPress in an agency environment.
+Digital media design (2026–present): Expanding my skills in visual communication, UI and digital product design.
+🛠️ Tech Stack
+Area	Technologies
+Languages	TypeScript, JavaScript, Python, C#, SQL
+Frontend	React, Next.js, HTML5, CSS3, WordPress
+Backend & APIs	Node.js, Express, ASP.NET Core, REST APIs, authentication
+Mobile	React Native, Expo
+Databases & ORM	PostgreSQL, SQL Server, MySQL, SQLite, Drizzle ORM, Prisma
+Tools & Testing	Git, GitHub, Docker, GitHub Actions, Vitest, Playwright, Jest
+Also working with	AI API integrations, Redis, cloud deployment workflows
+🚀 Featured Projects
+🗺️ CITYWALK — AI-Powered City Guide
+Active development · private repository
 
----
+A web and mobile city-exploration product with personalized walking routes, an AI guide, multilingual content, saved walks and shareable itineraries.
 
-### 🛠 Tech Stack
+Stack: React Native, Expo, Next.js, TypeScript, PostgreSQL, Drizzle ORM, REST APIs.
 
-#### 💻 Technologies I Use
-`C#` `ASP.NET` `.NET WinForms/WPF` `JavaScript` `TypeScript` `React` *(learning)*
+🛒 AfricaCOD — Multi-Market Commerce Workspace
+Active development · private/local project
 
-#### 🌐 Web & UI
-`HTML5` `CSS3` `Blazor` `Razor Pages`
+An Africa-focused cash-on-delivery SaaS workspace for organizations, stores and country-specific markets, with account onboarding, authentication and tenant isolation.
 
-#### 🗄 Databases
-`SQL Server` `MySQL` `SQLite`
+Stack: Next.js, TypeScript, PostgreSQL, Drizzle ORM, Better Auth, Playwright.
 
-#### 🔧 Tools & Practices
-`Visual Studio` `Git` `GitHub` `Entity Framework` `LINQ` `Problem Solving` `Agile`
+🤖 WhatsApp AI Chatbot for E-commerce
+A WhatsApp commerce chatbot project featuring multilingual conversations, voice-note transcription and structured order flows.
 
----
+Stack: Node.js, TypeScript, Express, OpenAI API, PostgreSQL, Prisma, Redis.
 
-### 🧩 Projects
+📦 Inventory-ProDesk
+An inventory and warehouse management project built with C# and .NET, covering stock and store-management workflows.
 
-- **Inventory Manager (Desktop)** – Built in C# .NET
-- **HR Management System (ASP.NET Web App)**
-- **React + TypeScript Task Tracker** *(Work in Progress)*
-- **Blog Platform** – Simple CMS using ASP.NET MVC
+📊 GitHub Activity
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=IamAssiaAjdaai&show_icons=true&theme=github_dark&hide_border=true" height="155" alt="GitHub stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamAssiaAjdaai&layout=compact&theme=github_dark&hide_border=true" height="155" alt="Most used languages in public GitHub repositories" /> </div>
+<sub>Note: Public GitHub statistics do not reflect all work in private repositories or professional projects.</sub>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IamAssiaAjdaai&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamAssiaAjdaai&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-### 🌐 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/assia-ajdaai-7b1901324/)
-[![Gmail](https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge)](mailto:assia.ajdaai@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=IamAssiaAjdaai&style=flat-square)
+<div align="center"> <strong>Let's build something useful.</strong><br /> <a href="https://www.linkedin.com/in/assia-ajdaai-7b1901324/">LinkedIn</a> · <a href="mailto:assia.ajdaai@gmail.com">Email</a> </div>
