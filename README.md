@@ -1,4 +1,29 @@
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/IamAssiaAjdaai/IamAssiaAjdaai/main/assets/header.svg"
+       alt="Assia Ajdaai — Software Developer"
+       width="880"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/IamAssiaAjdaai/IamAssiaAjdaai/main/assets/now.svg"
+       alt="What I'm building: CITYWALK and AfricaCOD"
+       width="720"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/React-149ECA?style=flat&logo=react&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" height="22"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" height="22"/>
+</p>
+
+
 <div align="center"> <h1>Hi, I'm Assia Ajdaai 👋</h1> <p><strong>Software Developer (IHK-certified) | Full-Stack · Mobile · AI Integrations</strong></p> <p>Building useful digital products with React, TypeScript, Next.js, Python and C#/.NET.</p> <a href="https://www.linkedin.com/in/assia-ajdaai-7b1901324/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="mailto:assia.ajdaai@gmail.com"> <img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /> </a> </div>
 👩‍💻 About Me
 I'm an IHK-certified Fachinformatikerin für Anwendungsentwicklung (Application Developer) based in Germany. My background combines C#/.NET and SQL with hands-on work in React, TypeScript, modern web applications and API integrations.
