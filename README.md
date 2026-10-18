@@ -52,19 +52,21 @@ I enjoy working across frontend and backend, turning ideas into tested, practica
 
 ### 🚀 Featured Projects
 
+#### 🛒 [AfricaCOD — Multi-Market Commerce SaaS](https://github.com/IamAssiaAjdaai/africaCod)
+*Active development · public repository*
+
+An Africa-focused cash-on-delivery SaaS for organizations, stores and country-specific markets. Building account onboarding, tenant-isolated workspaces, product offers, checkout, order operations and integrations.
+
+**Stack:** Next.js, TypeScript, PostgreSQL, Drizzle ORM, Better Auth, Playwright.
+
+**Explore:** [Source code](https://github.com/IamAssiaAjdaai/africaCod) · [Issues and roadmap](https://github.com/IamAssiaAjdaai/africaCod/issues)
+
 #### 🗺️ CITYWALK — AI-Powered City Guide
 *Active development · private repository*
 
 A web and mobile city-exploration product with personalized walking routes, an AI guide, multilingual content, saved walks and shareable itineraries.
 
 **Stack:** React Native, Expo, Next.js, TypeScript, PostgreSQL, Drizzle ORM, REST APIs.
-
-#### 🛒 AfricaCOD — Multi-Market Commerce Workspace
-*Active development · private/local project*
-
-An Africa-focused cash-on-delivery SaaS workspace for organizations, stores and country-specific markets, with account onboarding, authentication and tenant isolation.
-
-**Stack:** Next.js, TypeScript, PostgreSQL, Drizzle ORM, Better Auth, Playwright.
 
 #### 🤖 [WhatsApp AI Chatbot for E-commerce](https://github.com/IamAssiaAjdaai/Whatsapp-ai-chatbot-for-e-commerce)
 
