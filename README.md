@@ -9,11 +9,13 @@ I enjoy working across frontend and backend, turning ideas into tested, practica
 🧩 Interests: Full-stack engineering, backend systems, mobile apps, AI integrations and product design </br>
 📍 Location: Germany (North Rhine-Westphalia) </br>
 💬 Languages: Arabic, German and Englis </br>
+
 💼 Experience & Background</br>
 Junior Software Developer : Professional software development experience involving web applications and integrations.
 Fachinformatikerin für Anwendungsentwicklung (2025): Completed vocational training with a focus on C#/.NET, SQL, application development and debugging.
 Web development experience: Worked with React and WordPress in an agency environment.</br>
 Digital media design (2026–present): Expanding my skills in visual communication, UI and digital product design.</br>
+
 🛠️ Tech Stack</br>
 Area	Technologies</br>
 Languages	TypeScript, JavaScript, Python, C#, SQL</br>
@@ -23,6 +25,7 @@ Mobile	React Native, Expo</br>
 Databases & ORM	PostgreSQL, SQL Server, MySQL, SQLite, Drizzle ORM, Prisma</br>
 Tools & Testing	Git, GitHub, Docker, GitHub Actions, Vitest, Playwright, Jest</br>
 Also working with	AI API integrations, Redis, cloud deployment workflows</br>
+
 🚀 Featured Projects</br>
 🗺️ CITYWALK : AI-Powered City Guide</br>
 Active development · private repository</br>
