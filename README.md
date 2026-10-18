@@ -5,27 +5,27 @@ I'm an IHK-certified Fachinformatikerin für Anwendungsentwicklung (Application 
 
 I enjoy working across frontend and backend, turning ideas into tested, practical products. Recently, I've been building AI-powered travel experiences, multi-tenant e-commerce tools, and automation-focused applications. I'm also developing my eye for UI/UX through digital media design.
 
-🔭 Currently building: CITYWALK and AfricaCOD
-🧩 Interests: Full-stack engineering, backend systems, mobile apps, AI integrations and product design
-📍 Location: Germany (North Rhine-Westphalia)
-💬 Languages: Arabic, German and English
-💼 Experience & Background
-Junior Software Developer — Mission Mittelstand (2026): Professional software development experience involving web applications and integrations.
-IHK qualification — Fachinformatikerin für Anwendungsentwicklung (2025): Completed vocational training with a focus on C#/.NET, SQL, application development and debugging.
-Web development experience: Worked with React and WordPress in an agency environment.
-Digital media design (2026–present): Expanding my skills in visual communication, UI and digital product design.
-🛠️ Tech Stack
-Area	Technologies
-Languages	TypeScript, JavaScript, Python, C#, SQL
-Frontend	React, Next.js, HTML5, CSS3, WordPress
-Backend & APIs	Node.js, Express, ASP.NET Core, REST APIs, authentication
-Mobile	React Native, Expo
-Databases & ORM	PostgreSQL, SQL Server, MySQL, SQLite, Drizzle ORM, Prisma
-Tools & Testing	Git, GitHub, Docker, GitHub Actions, Vitest, Playwright, Jest
-Also working with	AI API integrations, Redis, cloud deployment workflows
-🚀 Featured Projects
-🗺️ CITYWALK — AI-Powered City Guide
-Active development · private repository
+🔭 Currently building: CITYWALK and AfricaCOD </br>
+🧩 Interests: Full-stack engineering, backend systems, mobile apps, AI integrations and product design </br>
+📍 Location: Germany (North Rhine-Westphalia) </br>
+💬 Languages: Arabic, German and Englis </br>
+💼 Experience & Background</br>
+Junior Software Developer : Professional software development experience involving web applications and integrations.
+Fachinformatikerin für Anwendungsentwicklung (2025): Completed vocational training with a focus on C#/.NET, SQL, application development and debugging.
+Web development experience: Worked with React and WordPress in an agency environment.</br>
+Digital media design (2026–present): Expanding my skills in visual communication, UI and digital product design.</br>
+🛠️ Tech Stack</br>
+Area	Technologies</br>
+Languages	TypeScript, JavaScript, Python, C#, SQL</br>
+Frontend	React, Next.js, HTML5, CSS3, WordPress</br>
+Backend & APIs	Node.js, Express, ASP.NET Core, REST APIs, authentication</br>
+Mobile	React Native, Expo</br>
+Databases & ORM	PostgreSQL, SQL Server, MySQL, SQLite, Drizzle ORM, Prisma</br>
+Tools & Testing	Git, GitHub, Docker, GitHub Actions, Vitest, Playwright, Jest</br>
+Also working with	AI API integrations, Redis, cloud deployment workflows</br>
+🚀 Featured Projects</br>
+🗺️ CITYWALK : AI-Powered City Guide</br>
+Active development · private repository</br>
 
 A web and mobile city-exploration product with personalized walking routes, an AI guide, multilingual content, saved walks and shareable itineraries.
 
