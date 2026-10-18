@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">Now — what Assia is building</title>
+<desc id="desc">Working on CITYWALK, an AI-powered city guide, and AfricaCOD, a multi-market commerce SaaS.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10172c"/><stop offset="1" stop-color="#101b31"/></linearGradient>
+  <linearGradient id="stroke" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#57dfc9"/><stop offset="1" stop-color="#9386ff"/></linearGradient>
+</defs>
+<rect width="1200" height="320" rx="25" fill="url(#bg)"/>
+<rect x="1" y="1" width="1198" height="318" rx="24" fill="none" stroke="#66789b" stroke-opacity=".4" stroke-width="1.5"/>
+<rect x="37" y="34" width="6" height="35" rx="3" fill="url(#stroke)"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="58" y="61" fill="#ecf7ff" font-size="24" font-weight="800">What I'm building now</text>
+<text x="58" y="84" fill="#8fa7be" font-size="13">Turning ideas into practical, tested products.</text>
+<!-- Card 1 -->
+<rect x="38" y="108" width="540" height="152" rx="17" fill="#172944" stroke="#305c6c" stroke-opacity=".75"/>
+<rect x="58" y="126" width="71" height="24" rx="12" fill="#1c504d"/>
+<text x="93.5" y="142" text-anchor="middle" font-size="11" font-weight="700" fill="#91f5db">MOBILE</text>
+<text x="58" y="182" fill="#ffffff" font-size="23" font-weight="800">CITYWALK</text>
+<text x="58" y="206" fill="#b7cbdf" font-size="15">AI-powered city guide and personalized walks</text>
+<text x="58" y="236" fill="#77d9cb" font-size="12.8" font-weight="700">React Native · Expo · Next.js · PostgreSQL</text>
+<circle cx="529" cy="165" r="23" fill="#24465a"/>
+<path d="M516 171l13-24 12 24-12-5-13 5z" fill="none" stroke="#77dfcb" stroke-width="2.6" stroke-linejoin="round"/>
+<!-- Card 2 -->
+<rect x="622" y="108" width="540" height="152" rx="17" fill="#232642" stroke="#696096" stroke-opacity=".75"/>
+<rect x="642" y="126" width="63" height="24" rx="12" fill="#473961"/>
+<text x="673.5" y="142" text-anchor="middle" font-size="11" font-weight="700" fill="#d5baff">SAAS</text>
+<text x="642" y="182" fill="#ffffff" font-size="23" font-weight="800">AfricaCOD</text>
+<text x="642" y="206" fill="#b7cbdf" font-size="15">Multi-market commerce and operations platform</text>
+<text x="642" y="236" fill="#b8a5ff" font-size="12.8" font-weight="700">TypeScript · Node.js · PostgreSQL · Auth</text>
+<rect x="1097" y="146" width="30" height="27" rx="4" fill="none" stroke="#bca8ff" stroke-width="2.2"/>
+<path d="M1103 154h18m-18 7h18m-18 7h10" stroke="#bca8ff" stroke-width="2" stroke-linecap="round"/>
+<!-- Footer -->
+<circle cx="49" cy="289" r="4" fill="#68dfc3"/>
+<text x="61" y="293" fill="#9fb5cd" font-size="13">Also exploring backend engineering, AI integrations, automation and product design</text>
+</g>
+</svg>
