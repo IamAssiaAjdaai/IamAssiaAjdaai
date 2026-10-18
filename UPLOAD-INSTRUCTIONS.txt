@@ -1,0 +1,14 @@
+GitHub profile repository: https://github.com/IamAssiaAjdaai/IamAssiaAjdaai
+
+To use the complete redesigned profile:
+1. Upload README.md to the repository root (replace existing README.md).
+2. Upload header.svg and now.svg to the assets/ folder in the SAME repository.
+3. Commit changes on main.
+
+To keep the rest of your existing README unchanged:
+1. Upload both SVGs to assets/.
+2. Replace the top section of README.md with README-header-snippet.html contents.
+
+The raw.githubusercontent.com image URLs in README.md work only AFTER the SVGs have been uploaded to the repository's main branch.
+
+No private-repository code is included; CITYWALK and AfricaCOD are described at a high level only.
